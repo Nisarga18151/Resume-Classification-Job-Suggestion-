@@ -1,4 +1,4 @@
-# Resume-Classification-Job-Suggestion-
+# Resume-Classification-Job-Suggestion
 📄 Resume Ranker (TF-IDF + Machine Learning)
 
 An AI-powered resume screening application that analyzes resumes against job descriptions and predicts candidate-job fit using Natural Language Processing (NLP) and Machine Learning.
